@@ -1,1 +1,1 @@
-# blue_green_autoscaling
+# blue_green_autoscaling_lb
